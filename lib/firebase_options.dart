@@ -9,7 +9,7 @@ import 'package:flutter/foundation.dart'
 /// Example:
 /// ```dart
 /// import 'firebase_options.dart';
-/// // ...
+/// // ...rsdfsdfsdf
 /// await Firebase.initializeApp(
 ///   options: DefaultFirebaseOptions.currentPlatform,
 /// );
@@ -69,6 +69,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '362237849757',
     projectId: 'w4-27-7d7e5',
     storageBucket: 'w4-27-7d7e5.firebasestorage.app',
-    iosBundleId: 'com.example.w427Jakkarach',
+    iosBundleId: 'com.example.w428kullanan,
   );
 }
